@@ -27,7 +27,7 @@ x11vnc \
 sleep 3
 
 # Start Chromium browser
-chromium \
+google-chrome \
     --no-sandbox \
     --disable-dev-shm-usage \
     --disable-gpu \
